@@ -1,0 +1,7 @@
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Release\net9.0\publish\MyWebApp.exe
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Release\net9.0\publish\appsettings.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Release\net9.0\publish\MyWebApp.dll
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Release\net9.0\publish\MyWebApp.deps.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Release\net9.0\publish\MyWebApp.runtimeconfig.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Release\net9.0\publish\MyWebApp.pdb

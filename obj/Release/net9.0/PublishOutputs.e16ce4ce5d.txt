@@ -1,0 +1,7 @@
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Publish\MyWebApp.exe
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Publish\appsettings.Development.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Publish\appsettings.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Publish\MyWebApp.dll
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Publish\MyWebApp.deps.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Publish\MyWebApp.runtimeconfig.json
+C:\Users\WDAGUtilityAccount\mywebapp\bin\Publish\MyWebApp.pdb
